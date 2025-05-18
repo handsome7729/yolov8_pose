@@ -10,7 +10,7 @@
 
 总结下来：
 3.1 设置环境变量
-# 配置程序编译依赖的头文件与库文件路径
+#### 配置程序编译依赖的头文件与库文件路径
 export DDK_PATH=/usr/local/Ascend/ascend-toolkit/latest 
 export NPU_HOST_LIB=$DDK_PATH/runtime/lib64/stub
 
